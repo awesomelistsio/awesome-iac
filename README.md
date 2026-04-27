@@ -67,6 +67,7 @@ Infrastructure as Code (IaC) is the practice of managing and provisioning comput
 - [Atlantis](https://www.runatlantis.io/) – Terraform pull request automation tool.
 - [Spacelift](https://spacelift.io/) – Collaborative IaC management platform.
 - [GitHub Actions for Terraform](https://github.com/hashicorp/setup-terraform) – Official GitHub action to integrate Terraform.
+- [terraform-risk-accessor](https://github.com/Liam-Johnston/terraform-risk-accessor) – GitHub Action that analyzes Terraform plan JSON and comments risk levels on pull requests.
 - [CircleCI + Terraform](https://circleci.com/blog/automate-your-infrastructure-with-terraform-and-circleci/) – Guide for integrating Terraform in CircleCI.
 
 ## Learning Resources
