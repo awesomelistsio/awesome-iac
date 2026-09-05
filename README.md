@@ -1,4 +1,4 @@
-# Awesome Infrastructure as Code [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Infrastructure as Code [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -90,10 +90,10 @@ Infrastructure as Code (IaC) is the practice of managing and provisioning comput
 
 ## Related Awesome Lists
 
-- **[Awesome Terraform](https://github.com/awesomelistsio/awesome-terraform)**
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)**
-- **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native)**
-- **[Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)**
+- **[Awesome Terraform](https://github.com/brandonhimpfen/awesome-terraform)**
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)**
+- **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native)**
+- **[Awesome Kubernetes](https://github.com/brandonhimpfen/awesome-kubernetes)**
   
 ## Contribute
 
